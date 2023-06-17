@@ -30,6 +30,17 @@ const handleUserInput = function(key) {
   if (key === 'd') {
     connection.write('Move: right');
   }
+
+  // Send canned messages
+  if (key === 'z') {
+    connection.write('Say: Hello, everyone!');
+  }
+  if (key === 'x') {
+    connection.write('Say: Having a great time!');
+  }
+  if (key === 'c') {
+    connection.write('Say: Let\'s play!');
+  }
 };
 
 module.exports = { setupInput };
