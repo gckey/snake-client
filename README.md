@@ -1,6 +1,6 @@
 # Snake Client Project
 
-The Snake Client Project is a JavaScript and Node.js-based implementation of the classic game Snake. The objective of the game is to control a snake, maneuvering it to eat pieces of food and grow in length. However, as the snake grows, it becomes increasingly challenging to avoid colliding with the side walls or its own body, as such collisions result in the snake's demise.
+The Snake Client Project is a JavaScript and NodeJS based implementation of the classic game Snake. The objective of the game is to control a snake, maneuvering it to eat pieces of food and grow in length. However, as the snake grows, it becomes increasingly challenging to avoid colliding with the side walls or its own body, as such collisions result in the snake's demise.
 
 This is simply a multiplayer take on the genre.
 
@@ -18,7 +18,7 @@ This game is inspired by the game Snek created by Tania Rascia. The server code 
 
 ## Final Product
 
-![A screenshot of my project](assets/screenshot.png "Project Screenshot")
+![A screenshot of my project](assets/screenshot.jpg "Project Screenshot")
 
 
 ## Getting Started
